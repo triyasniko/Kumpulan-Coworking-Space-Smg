@@ -4,7 +4,7 @@ Berikut adalah daftar co-working space, virtual office atau sekedar tempat umum 
 
 Silahkan tambahkan tempat, co-working space atau virtual office yang kalian ketahui.
 
-##Daftar Kota
+## Daftar Kota
 
 - [Semarang](#Semarang)
 
