@@ -28,7 +28,8 @@ Apakah Gratis ? Ya, gratis bersyarat \
 
 **GENIUS IDEA SEMARANG**\
 Alamat      : Jl. Sultan Agung, No. 90 – 90A (https://goo.gl/maps/oCzQYQbCtGwGNGtu5) \
-Alamat Web  : geniusidea.id
-Kontak      : 0818-436-487
-Jam buka    :   Senin-Jum'at 08.00 AM- 05.30 PM, Sabtu Minggu libur
+Alamat Web  : geniusidea.id \
+Kontak      : 0818-436-487 \
+Instagram   : geniusidea.id \
+Jam buka    :   Senin-Jum'at 08.00 AM- 05.30 PM, Sabtu Minggu libur \
 Apakah gratis : Tidak, Berbayar
