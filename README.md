@@ -26,7 +26,7 @@ Apakah Gratis ? Ya, gratis bersyarat \
 
 <img src="https://geniusidea.id/wp-content/uploads/2018/09/sewa-ruang-kantor-office-space-semarang-01.jpg" height="180px" width="180px" align="left">
 
-**GENIUS IDEA SEMARANG**\
+**GENIUS IDEA SEMARANG** \
 Alamat      : Jl. Sultan Agung, No. 90 – 90A (https://goo.gl/maps/oCzQYQbCtGwGNGtu5) \
 Alamat Web  : geniusidea.id \
 Kontak      : 0818-436-487 \
