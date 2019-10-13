@@ -23,3 +23,18 @@ Kontak      : (024) 86041018 \
 Instagram   : https://www.instagram.com/sdksemarang/ \
 Jam Buka    : 24jam (Hari besar libur) \
 Apakah Gratis ? Ya, gratis bersyarat \
+
+**GENIUS IDEA SEMARANG**\
+Alamat      : Jl. Sultan Agung, No. 90 – 90A (https://goo.gl/maps/oCzQYQbCtGwGNGtu5) \
+Alamat Web  : geniusidea.id
+Kontak      : 0818-436-487
+Jam buka    : 
+                Sunday	Closed \
+                Monday	8AM–5:30PM \
+                Tuesday	8AM–5:30PM \
+                Wednesday	8AM–5:30PM \
+                Thursday	8AM–5:30PM \
+                Friday	8AM–5:30PM \
+                Saturday	Closed \
+
+Apakah gratis : Tidak, Berbayar
