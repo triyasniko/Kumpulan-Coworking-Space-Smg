@@ -24,6 +24,15 @@ Instagram   : https://www.instagram.com/sdksemarang/ \
 Jam Buka    : 24jam (Hari besar libur) \
 Apakah Gratis ? Ya, gratis bersyarat \
 
+<img src="https://www.impala.space/build/images/AU-img1.jpg" width="180px" align="left">
+
+**Impala Space** \
+Alamat      : Spiegel Building, Jl. Letjen Suprapto No.34, Kota Lama, Tj. Mas, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50174 (https://goo.gl/maps/NXRsiVhPVkGNQfCU8) \
+Alamat web  : https://www.impala.space/ \
+Kontak      : 0813-2980-0300 \
+Jam Buka    : Senin-Jumat: 09.00-23.00; Sabtu-Minggu: 08.00-16.00 \
+Personal atau Group Membership
+
 **3/4 Coworking Space** \
 <img src="https://www.tigaperempat.space/assets/images/website_asset/events/kategori/Class%20Room%201.jpg"
 height="180px" width="180px" align="left">
@@ -43,4 +52,3 @@ height="180px" width="180px" align="left">
 |Jam Buka    | Senin s/d Jum'at 08:00 to 02:00                                                     |
 |                                                                                                  |
 |            | Sabtu s/d Minggu 09:00 to 24:00                                                     |  
-                                                                                                   
