@@ -29,7 +29,9 @@ Apakah Gratis ? Ya, gratis bersyarat \
 height="180px" width="180px" align="left">
 Alamat      : Jl. Imam Soeparto No.9, Bulusan, Kec. Tembalang, Kota Semarang, Jawa Tengah 50277 \
 Alamat web  : http://tigaperempat.space/ \
-Kontak      : (024) 86041018 \
-Instagram   : https://www.instagram.com/sdksemarang/ \
+Kontak      : 
+            General : +6282242151152
+            Event   : +6282242506478
+Instagram   : https://www.instagram.com/tigaperempatspace/ \
 Jam Buka    : Senin s/d Jum'at 08:00 to 02:00 \
               Sabtu s/d Minggu 09:00 to 24:00 \
