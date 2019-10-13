@@ -30,11 +30,5 @@ Apakah Gratis ? Ya, gratis bersyarat \
 Alamat      : Jl. Sultan Agung, No. 90 – 90A (https://goo.gl/maps/oCzQYQbCtGwGNGtu5) \
 Alamat Web  : geniusidea.id
 Kontak      : 0818-436-487
-Jam buka    :   Sunday	Closed \
-                Monday	8AM–5:30PM \
-                Tuesday	8AM–5:30PM \
-                Wednesday	8AM–5:30PM \
-                Thursday	8AM–5:30PM \
-                Friday	8AM–5:30PM \
-                Saturday	Closed 
+Jam buka    :   Senin-Jum'at 08.00 AM- 05.30 PM, Sabtu Minggu libur
 Apakah gratis : Tidak, Berbayar
