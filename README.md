@@ -2,7 +2,7 @@
 
 <img src="http://sandec.org/images/sandec-logo.png" height="177px" width="341px" align="center">
 
-Berikut adalah daftar co-working space, virtual office atau sekedar tempat umum ber-wifi yang dapat digunakan untuk bekerja di wilahayah Kota Semarang dan sekitarnya.
+Berikut adalah daftar co-working space, virtual office atau sekedar tempat umum ber-wifi yang dapat digunakan untuk bekerja di wilayah Kota Semarang dan sekitarnya.
 
 Silahkan tambahkan tempat, co-working space atau virtual office yang kalian ketahui.
 
@@ -33,3 +33,12 @@ Kontak      : 0818-436-487 \
 Instagram   : geniusidea.id \
 Jam buka    :   Senin-Jum'at 08.00 AM- 05.30 PM, Sabtu Minggu libur \
 Apakah gratis : Tidak, Berbayar
+=======
+<img src="https://www.impala.space/build/images/AU-img1.jpg" width="180px" align="left">
+
+**Impala Space** \
+Alamat      : Spiegel Building, Jl. Letjen Suprapto No.34, Kota Lama, Tj. Mas, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50174 (https://goo.gl/maps/NXRsiVhPVkGNQfCU8) \
+Alamat web  : https://www.impala.space/ \
+Kontak      : 0813-2980-0300 \
+Jam Buka    : Senin-Jumat: 09.00-23.00; Sabtu-Minggu: 08.00-16.00 \
+Personal atau Group Membership
