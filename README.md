@@ -24,6 +24,8 @@ Instagram   : https://www.instagram.com/sdksemarang/ \
 Jam Buka    : 24jam (Hari besar libur) \
 Apakah Gratis ? Ya, gratis bersyarat \
 
+<img src="https://geniusidea.id/wp-content/uploads/2018/09/sewa-ruang-kantor-office-space-semarang-01.jpg" height="180px" width="180px" align="left">
+
 **GENIUS IDEA SEMARANG**\
 Alamat      : Jl. Sultan Agung, No. 90 – 90A (https://goo.gl/maps/oCzQYQbCtGwGNGtu5) \
 Alamat Web  : geniusidea.id
@@ -35,6 +37,6 @@ Jam buka    :
                 Wednesday	8AM–5:30PM \
                 Thursday	8AM–5:30PM \
                 Friday	8AM–5:30PM \
-                Saturday	Closed \
+                Saturday	Closed 
 
 Apakah gratis : Tidak, Berbayar
